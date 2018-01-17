@@ -1,0 +1,40 @@
+.a1 { background: url(../img/nav1.png); background-size: 100% 100%; }
+
+.a2 { background: url(../img/nav2.png); background-size: 100% 100%; }
+
+.a3 { background: url(../img/nav3.png); background-size: 100% 100%; }
+
+.a4 { background: url(../img/nav4.png); background-size: 100% 100%; }
+
+.a5 { background: url(../img/nav5.png); background-size: 100% 100%; }
+
+.a6 { background: url(../img/nav6.png); background-size: 100% 100%; }
+
+.a7 { background: url(../img/nav7.png); background-size: 100% 100%; }
+
+.a8 { background: url(../img/nav8.png); background-size: 100% 100%; }
+
+.a9 { background: url(../img/nav9.png); background-size: 100% 100%; }
+
+.a10 { background: url(../img/nav10.png); background-size: 100% 100%; }
+
+.box { width: 15rem; height: 2rem; background: #ff5000; }
+
+.left-tb { display: block; width: 1.92rem; height: 1.6rem; position: relative; top: 0.16rem; left: 0.5rem; font-size: 0.36rem; }
+.left-tb i { color: #fff; position: relative; left: 0.66rem; }
+.left-tb .name { text-align: center; color: #fff; }
+
+.box-1 { width: 9.72rem; height: 1rem; position: relative; left: 2.8rem; top: -1.14rem; border-radius: 0.3rem; background: #D52D00; }
+.box-1 i { color: #fff; }
+.box-1 .ipt { width: 8rem; height: 1rem; position: relative; left: 0.8rem; top: -0.1rem; border-radius: 0.3rem; border: none; background: none; }
+
+.left-ss { position: relative; left: -8.1rem; top: 0.06rem; }
+
+.box1 { width: 15rem; }
+.box1 img { width: 100%; }
+
+.box2 ul li { display: block; width: 2rem; height: 1.72rem; float: left; margin: 0.5rem; text-align: center; }
+.box2 ul li a { color: #666; }
+.box2 ul li span { display: block; width: 1.72rem; height: 1.72rem; }
+
+/*# sourceMappingURL=jd.css.map */
